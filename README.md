@@ -15,3 +15,5 @@
 ## Data I have been working on
 
 ### Influenza deaths by geography, time, age, and gender from US-CDC Population data by geography and age, US Census Bureau Counts of influenza laboratory test results by state (survey) from US-CDC Counts of visits of patients with influenza in hospital from US-CDC Survey of flu shot rates in children from US-CDC
+### Link to My presentation
+https://www.youtube.com/watch?v=q8G6L1xBLEY
